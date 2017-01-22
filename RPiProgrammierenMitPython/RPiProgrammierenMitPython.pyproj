@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>1cd9bdaa-e3a7-409f-9018-0f4a8c0e0885</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Kapitel4Aufgabe2Dreiecke.py</StartupFile>
+    <StartupFile>Kapitel5Projekt5_4.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -32,13 +32,27 @@
     <Compile Include="Kapitel3Projekt3_14.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Kapitel4Aufgabe2Spirale.py" />
+    <Compile Include="Kapitel4Aufgabe2Turm.py" />
     <Compile Include="Kapitel4Aufgabe2Dreiecke.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Kapitel4Aufgabe3.py" />
     <Compile Include="Kapitel4Projekt4_13.py" />
     <Compile Include="Kapitel4Projekt4_12_4.py" />
     <Compile Include="Kapitel4Projekt4_12_3.py" />
     <Compile Include="Kapitel4Projekt4_12_2.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Kapitel5Projekt5_4.py" />
+    <Compile Include="Kapitel5Projekt5_2.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Kapitel5Projekt5_8.py" />
+    <Compile Include="Kapitel5Projekt5_7.py" />
+    <Compile Include="Kapitel5Projekt5_6_1.py" />
+    <Compile Include="Kapitel5Projekt5_5_2.py" />
+    <Compile Include="Kapitel5Projekt5_5_1.py">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
