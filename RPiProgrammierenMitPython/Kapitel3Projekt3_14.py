@@ -1,3 +1,7 @@
+# Kapitel 3, Projekt "Der kürzeste Weg zum Ziel"
+# Implementation von Dijkstras Algorithmus zum finden des
+# kürzesten Weges in einem gerichteten Graphen
+
 G = {"A":[("B", 2), ("C", 5)],
      "B":[("C", 1), ("D", 5)],
      "C":[("A", 5), ("E", 1)],
@@ -15,7 +19,8 @@ while nicht_besucht:
     weglaenge, knoten = min([(entfernung[k], k) for k in nicht_besucht])
     nicht_besucht -= {knoten}
     for nachbar, distanz in G[knoten]:
-        if (nachbar in nicht_besucht) and (weglaenge + distanz < entfernung[nachbar]):
+        if (nachbar in nicht_besucht) and \
+           (weglaenge + distanz < entfernung[nachbar]):
             vorgaenger[nachbar] = knoten
             entfernung[nachbar] = weglaenge + distanz
 
