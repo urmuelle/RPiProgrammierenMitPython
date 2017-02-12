@@ -1,4 +1,5 @@
 # Kapitel 4, Aufgabe 2, Turm aus Quadraten
+
 from turtle import *
 
 def quadrat(n):

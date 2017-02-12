@@ -1,3 +1,5 @@
+# Kapitel 5, 5.2, Projekt "UI zum Generieren einer Zufallszahl"
+
 from tkinter import *
 from random import randint
 
