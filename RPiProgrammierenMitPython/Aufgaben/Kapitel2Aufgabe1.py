@@ -1,4 +1,9 @@
-#Kapitel 2, Aufgabe 1, Seite 82
+#----------------------------------------------------------------
+#----------------------------------------------------------------
+"""Dieses Modul ist eine Beispielimplementation
+   zur Lösung Aufgabe 1, Kapitel 2
+
+"""
 
 from math import *
 

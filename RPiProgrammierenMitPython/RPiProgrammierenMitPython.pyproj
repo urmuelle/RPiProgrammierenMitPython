@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>1cd9bdaa-e3a7-409f-9018-0f4a8c0e0885</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Kapitel6Projekt6_9_4.py</StartupFile>
+    <StartupFile>Kapitel8Projekt8_3.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -34,6 +34,21 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Aufgaben\Kapitel6Aufgabe3.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Aufgaben\Kapitel7Aufgabe1.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Aufgaben\Kapitel7Aufgabe2.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Aufgaben\Kapitel8Aufgabe1.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Aufgaben\Kapitel8Aufgabe2.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Aufgaben\Kapitel8Aufgabe3.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Kapitel3Projekt3_14.py">
@@ -74,12 +89,37 @@
     <Compile Include="Kapitel6Projekt6_9_4.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Kapitel7Projekt7_1.py" />
+    <Compile Include="Kapitel7Projekt7_4_3.py" />
+    <Compile Include="Kapitel7Projekt7_3_4.py" />
+    <Compile Include="Kapitel7Projekt7_3_3.py" />
+    <Compile Include="Kapitel7Projekt7_3_2.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Kapitel7Projekt7_5_1.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Kapitel8Projekt8_1_1.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Kapitel8Projekt8_2_3 - Copy.py" />
+    <Compile Include="Kapitel8Projekt8_3.py" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Aufgaben\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="background.gif" />
     <Content Include="faust.txt" />
+    <Content Include="girl_1.gif" />
+    <Content Include="girl_2.gif" />
+    <Content Include="girl_3.gif" />
+    <Content Include="girl_4.gif" />
+    <Content Include="girl_5.gif" />
+    <Content Include="girl_6.gif" />
+    <Content Include="girl_7.gif" />
+    <Content Include="girl_8.gif" />
+    <Content Include="girl_standing.gif" />
     <Content Include="raeuber.txt" />
   </ItemGroup>
   <PropertyGroup>

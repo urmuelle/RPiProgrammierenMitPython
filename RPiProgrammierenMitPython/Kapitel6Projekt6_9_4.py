@@ -1,10 +1,12 @@
+#----------------------------------------------------------------
 # Kapitel 6, 6.9.4 Staumelder
+#----------------------------------------------------------------
 
 from tkinter import *
 from urllib.request import *
 import re
 WWW="http://www.wdr.de"
-MESSAGE="""die aktuelle Verkerhslage in NRW.
+MESSAGE="""die aktuelle Verkehrslage in NRW.
 Gesamte Staulaenge: {km} km. Betroffene Strassen:
 {streets}."""
 
